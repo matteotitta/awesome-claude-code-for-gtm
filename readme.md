@@ -1,3 +1,5 @@
+![awesome-claude-code-for-gtm cover](.github/cover.png)
+
 # Awesome Claude Code for GTM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Skills, agents, MCP servers, and workflows that put Claude Code to work on go-to-market problems.
