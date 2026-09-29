@@ -107,6 +107,7 @@ Two things worth knowing before you wire anything up. **No first-party MCP serve
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - The canonical reference servers, maintained by the MCP steering group. Worth knowing it no longer carries a third-party integrations list. 88,543 stars.
 - [salesforcecli/mcp](https://github.com/salesforcecli/mcp) - Salesforce's official server, maintained by the CLI team. Apache-2.0. 440 stars.
 - [twenty-crm-mcp-server](https://github.com/mhenry3164/twenty-crm-mcp-server) - MCP server for Twenty, the open-source CRM. The pairing matters: an open CRM plus an open server is the only fully inspectable CRM-agent stack here. 68 stars.
+- [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ## GTM Tool Guides
 
