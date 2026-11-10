@@ -90,6 +90,7 @@ Skill libraries built specifically for marketing, sales, and revenue work.
 
 ## Plugins
 
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - A free MIT plugin for SEO teams using Claude Code. Audit sites, plan content, and build schema in the terminal. Estimate AI search visibility from public web signals or a connected Ahrefs Brand Radar account.
 - [claude-hud](https://github.com/jarrodwatts/claude-hud) - Shows context usage, active tools, running agents, and todo state while Claude Code works. Context usage is the number that matters on long GTM research runs, and this is the cheapest way to see it. 29,134 stars.
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic's managed directory of vetted Claude Code plugins. Start here before installing anything from a random marketplace. 46,386 stars.
 - [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins) - Clay's plugin for Claude Code, Codex, and Cursor: skills, MCP tools, and the `clay` CLI for search, enrichment, and table queries. The org's site is clay.com, though GitHub doesn't mark it verified. No licence declared. 145 stars.
