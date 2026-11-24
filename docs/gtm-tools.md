@@ -32,7 +32,7 @@ Built from [Adam's GTM Report](https://posts.adamgtm.com/) by Adam Schoenfeld, u
 - [AEO and AI search visibility](#aeo-and-ai-search-visibility) (14)
 - [Website and inbound](#website-and-inbound) (20)
 - [Creative and content](#creative-and-content) (17)
-- [Data and intelligence](#data-and-intelligence) (30)
+- [Data and intelligence](#data-and-intelligence) (31)
 - [GTM infrastructure](#gtm-infrastructure) (14)
 - [Other GTM tools](#other-gtm-tools) (8)
 
@@ -734,6 +734,7 @@ The tools below sit outside the developer-tools map but ship an MCP server or a 
 - [Databox](https://databox.com) - Marketers pull KPIs from over 130 apps into live dashboards, then quiz an AI analyst. `MCP` ([MCP docs](https://developers.databox.com/docs/mcp/overview))
 - [Dreamdata](https://dreamdata.io) - Maps each B2B buyer's journey across channels and links every touch to revenue. `MCP` ([MCP docs](https://developer.dreamdata.io/mcp/mcp-server/))
 - [Dun & Bradstreet](dnb.com) - Business credit and company records tied to its DUNS ID, for sales and risk teams. Acquired. `MCP` ([MCP docs](https://www.dnb.com/en-us/solutions/artificial-intelligence/connectors/dnb-mcp.html))
+- [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/people) - Catalog of people and company enrichment providers, including Findymail, Anymail Finder, People Data Labs, and Hunter, that agents call through one Firecrawl API key. `MCP` `CLI` ([MCP docs](https://docs.firecrawl.dev/features/alexandria))
 - [Floqer](https://floqer.com) - Fills CRM gaps from many data sources and starts routing or outreach when accounts change. `MCP` ([MCP docs](https://floqer.com/docs/mcp/getting-started))
 - [Freckle.io](https://www.freckle.io) - Terminal tool for GTM engineers that runs enrichment workflows across 40+ data vendors with coding agents. `CLI`
 - [Improvado](https://improvado.io) - Merges data from over a thousand marketing sources so analysts and AI agents can ask questions. `MCP` ([MCP docs](https://improvado.io/docs-section-topic/improvado-mcp-text))
